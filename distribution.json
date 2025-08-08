@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "2025-8-1.21.8",
+      "id": "2025-8-1.20.1",
       "name": "레스트의 테스트 서버",
       "description": "어서온나이기야",
       "icon": "https://locozz21.github.io/mctest/icon.jpg",
-      "version": "1.21.8",
+      "version": "1.20.1",
       "address": "211.248.171.243",
-      "minecraftVersion": "1.21.8",
+      "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "레스트의 마크서버",
         "largeImageText": "레스트의 마크서버",
@@ -23,7 +23,7 @@
       "mainServer": true,
       "autoconnect": true,
       "modules": [
-                {
+         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
@@ -432,25 +432,23 @@
             }
           ]
         },
-      {
-        "id": "com.simibubi.create:create:6.0.6@jar",
-        "name": "Create",
-        "type": "ForgeMod",
-        "artifact": {
-          "size": 18764522,
-          "url": "https://locozz21.github.io/mctest/create-1.20.1-6.0.6.jar",
-           "MD5": "0BDB2789D1708A9DE227C8EF05A830D9"
-        }
-      }
-
-        },
         {
+          "id": "net.mcreator.paintingspack:paintings_pack1:1.19.2@jar",
+          "name": "Jess' Painting Collection",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 724366,
+            "url": "https://cdn.mysticred.space/launcher/servers/2025-6-1.20.1/forgemods/required/[FORGE]%201.20.1%20ATM_PAINTING.jar",
+            "MD5": "0b227c3c43a379ecb74063da4a8e98f4"
+          }
+        }
       ]
     }
   ]
 
 
 }
+
 
 
 
