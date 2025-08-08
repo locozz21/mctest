@@ -13,12 +13,12 @@
       "description": "1.21.4",
       "icon": "https://cdn.mysticred.space/icon.png",
       "version": "1.21.4",
-      "address": "mysticred.space",
+      "address": "레스트의마크.서버.한국",
       "minecraftVersion": "1.21.4",
       "discord": {
-        "shortId": "Liminal Industries",
-        "largeImageText": "Liminal Industries",
-        "largeImageKey": "mrs"
+        "shortId": "레스트의 마크서버",
+        "largeImageText": "레스트의 마크서버",
+        "largeImageKey": "마크섭"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -29,6 +29,7 @@
 
 
 }
+
 
 
 
