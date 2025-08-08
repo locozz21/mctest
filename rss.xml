@@ -5,7 +5,7 @@
   <description></description>
   <atom:link href="https://locozz21.github.io/mctest/rss.xml" rel="self" type="application/rss+xml"/>
   <language>ko</language>
-  <pubDate>Fri, 08 Aug 2025 13:50:00 +0900</pubDate>
+  <pubDate>Fri, 08 Aug 2025 15:00:00 +0900</pubDate>
   <generator>1ist5e</generator>
   <copyright>ⓒ 2025. 1ist5e. All rights reserved.</copyright>
   <item>
@@ -19,10 +19,11 @@
     <category>공지사항</category>
     <category>서버</category>
     <dc:creator>1ist5e</dc:creator>
-    <pubDate>Fri, 08 Aug 2025 13:50:00 +0900</pubDate>
+    <pubDate>Fri, 08 Aug 2025 15:00:00 +0900</pubDate>
   </item>
 </channel>
 </rss>
+
 
 
 
