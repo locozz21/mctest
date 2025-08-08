@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 <channel>
-  <title>Mystic Red Space</title>
+  <title>1ist5e</title>
   <link>https://mysticred.space/</link>
   <description></description>
-  <atom:link href="https://mysticred.space/rss" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://locozz21.github.io/mctest/rss.xml" rel="self" type="application/rss+xml"/>
   <language>ko</language>
   <pubDate>Fri, 08 Aug 2025 13:50:00 +0900</pubDate>
   <generator>1ist5e</generator>
@@ -26,4 +26,5 @@
   </item>
 </channel>
 </rss>
+
 
