@@ -23,12 +23,22 @@
       "mainServer": true,
       "autoconnect": true,
       "modules": [
+              {
+          "id": "",
+          "name": "",
+          "type": "",
+          "artifact": {
+            "size": 0,
+            "url": "",
+            "MD5": ""
+          }
       ]
     }
   ]
 
 
 }
+
 
 
 
