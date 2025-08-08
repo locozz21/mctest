@@ -22,34 +22,26 @@
       },
       "mainServer": true,
       "autoconnect": true,
-      "modules": [        {
-          "id": "",
-          "name": "",
-          "type": "",
-          "classpath": true,
+      "modules": [
+        {
+          "id": "none",
+          "name": "No Modules",
+          "type": "none",
+          "classpath": false,
           "artifact": {
             "size": 0,
             "MD5": "",
             "url": ""
           },
-          "subModules": [
-            {
-              "id": "",
-              "name": "",
-              "type": "",
-              "artifact": {
-                "size": 0,
-                "MD5": "",
-                "url": ""
-              }
-            }
-          ]
-        }]
+          "subModules": []
+        }
+      ]
     }
   ]
 
 
 }
+
 
 
 
