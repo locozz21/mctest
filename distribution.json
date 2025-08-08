@@ -438,7 +438,7 @@
         "type": "ForgeMod",
         "artifact": {
           "size": 18764522,
-          "url": "https://example.com/mods/create-1.20.1-6.0.6.jar",
+          "url": "https://locozz21.github.io/mctest/create-1.20.1-6.0.6.jar",
            "MD5": "0BDB2789D1708A9DE227C8EF05A830D9"
         }
       }
@@ -451,6 +451,7 @@
 
 
 }
+
 
 
 
