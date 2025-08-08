@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://mysticred.space/rss",
+  "rss": "https://raw.githubusercontent.com/locozz21/mctest/refs/heads/main/rss.xml",
   "discord": {
     "clientId": "999669813272121364",
     "smallImageText": "",
@@ -29,6 +29,7 @@
 
 
 }
+
 
 
 
