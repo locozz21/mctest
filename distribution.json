@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "rss": "https://raw.githubusercontent.com/locozz21/mctest/refs/heads/main/rss.xml",
+  "discord": {
+    "clientId": "999669813272121364",
+    "smallImageText": "",
+    "smallImageKey": ""
+  },
+  "servers": [
+    {
+      "id": "2025-6-1.20.1",
+      "name": "레스트의 테스트 서버",
+      "description": "마크 1.21.4",
+      "icon": "https://cdn.mysticred.space/icon.png",
+      "version": "1.16.1",
+      "address": "mysticred.space",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "Liminal Industries",
+        "largeImageText": "Liminal Industries",
+        "largeImageKey": "mrs"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+      ]
+    }
+  ]
+
+}
