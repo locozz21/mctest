@@ -10,7 +10,6 @@
   <copyright>ⓒ 2025. 1ist5e. All rights reserved.</copyright>
   <item>
     <title>뉴스 테스트</title>
-    <link>https://mysticred.space/notice/688</link>
     <description><![CDATA[
       <p><span style="font-size:18px;"><strong>▶테스트</strong></span></p>
       <hr />
@@ -20,11 +19,10 @@
     <category>공지사항</category>
     <category>서버</category>
     <dc:creator>1ist5e</dc:creator>
-    <guid isPermaLink="true">https://mysticred.space/notice/688</guid>
-    <comments>https://mysticred.space/notice/688#comment</comments>
     <pubDate>Fri, 08 Aug 2025 13:50:00 +0900</pubDate>
   </item>
 </channel>
 </rss>
+
 
 
