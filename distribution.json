@@ -1,7 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://raw.githubusercontent.com/locozz21/mctest/main/rss.xml
-",
+  "rss": "https://raw.githubusercontent.com/locozz21/mctest/main/rss.xml",
   "discord": {
     "clientId": "999669813272121364",
     "smallImageText": "",
@@ -30,3 +29,4 @@
 
 
 }
+
