@@ -5,8 +5,21 @@
   <description></description>
   <atom:link href="https://locozz21.github.io/mctest/rss.xml" rel="self" type="application/rss+xml"/>
   <language>ko</language>
-  <pubDate>Fri, 08 Aug 2025 15:00:00 +0900</pubDate>
+  <pubDate>Sun, 10 Aug 2025 15:00:00 +0900</pubDate>
   <generator>1ist5e</generator>
+    <item>
+    <title>Beta v5.2.4 출시</title>
+    <description><![CDATA[
+      <p><span style="font-size:18px;"><strong>▶베타 출시</strong></span></p>
+      <hr />
+      <p><span style="font-size:18px;">안녕하세요, 레스트입니다.<br />
+      베타 정식 출시 하였습니다.</span></p>
+    ]]></description>
+    <category>공지사항</category>
+    <category>서버</category>
+    <dc:creator>1ist5e</dc:creator>
+    <pubDate>Sun, 10 Aug 2025 15:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>뉴스 테스트</title>
     <description><![CDATA[
@@ -22,6 +35,7 @@
   </item>
 </channel>
 </rss>
+
 
 
 
